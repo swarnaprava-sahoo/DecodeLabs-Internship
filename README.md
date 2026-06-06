@@ -9,6 +9,7 @@ How to Run
 2. Run the program : java Decodelabs_p1
 
 Project 2 : Student Grade Calculator
+
 Description
 A Java application that calculates total marks,average percentage,and grade based on marks entered by the user.
 
