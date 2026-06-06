@@ -10,7 +10,7 @@ How to Run
 
 Project 2 : Student Grade Calculator
 
-Description
+Description 
 A Java application that calculates total marks,average percentage,and grade based on marks entered by the user.
 
 How to Run
