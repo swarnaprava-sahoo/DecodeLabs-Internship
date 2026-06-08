@@ -1,12 +1,12 @@
 import java.util.Scanner;
 class Decodelabs_p2{
     public static void main(String[] args) {
-       Scanner sc = new Scanner(System. in);
-       System.out.println("Enter marks for Subject1");
+       Scanner sc = new Scanner(System.in);
+       System.out.println("Enter marks for Subject 1");
        int s1 = sc.nextInt();
-       System.out.println("Enter marks for Subject2");
+       System.out.println("Enter marks for Subject 2");
        int s2 = sc.nextInt();
-       System.out.println("Enter marks for Subject3");
+       System.out.println("Enter marks for Subject 3");
        int s3 = sc.nextInt();
        int total = s1+s2+s3;
        double average = total/3.0;
